@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Pic of family] (https://images.app.goo.gl/ixczXGvruC5ow9cV8)
